@@ -1,0 +1,23 @@
+{
+  "name": "framechain",
+  "version": "0.0.1",
+  "description": "FrameChain is a framework for developing applications that reason spatially",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrameChainAI/FrameChain-typescript.git"
+  },
+  "keywords": [
+    "FrameChain",
+    "LVM"
+  ],
+  "author": "Jacob Valdez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FrameChainAI/FrameChain-typescript/issues"
+  },
+  "homepage": "https://github.com/FrameChainAI/FrameChain-typescript#readme"
+}
